@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@1,300&display=swap');
+
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(180deg,#ff8000,#fff,#008000);
+    width: 384px;
+    min-height: 200px;
+}
+
+.launcher-head {
+    text-align: center;
+    padding: 0 2px;
+}
+
+.launcher-desc {
+    padding: 2px;
+    text-align: center;
+}
+
+.social-profiles {
+    padding: 10px 15px;
+}
+
+hr {
+    height: 1px;
+    width: 25%;
+    background-color: #4059eb;
+}
+
+#header-text {
+    font-family: 'Titillium Web', sans-serif !important;
+}
+
+p {
+    text-shadow: 1px 1px gray;
+}
+
+ul#links {
+    list-style-type: none;
+}
+
+ul#links li {
+    display: inline;
+    padding: 5px;
+}
+
+ul#links li:hover {
+    padding: 10px;
+}
+
+a:link {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
+    text-decoration: none;
+}
+
+a:active {
+    color: black;
+    text-decoration: none;
+}
